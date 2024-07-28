@@ -1,2 +1,2 @@
 # Flowchart-Learning
-a showcase of my simple flowchart
+a simple password algorithm
